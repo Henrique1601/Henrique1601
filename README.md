@@ -30,8 +30,9 @@
  ##
  <h1>Contacts</h1>
  <div>
- <img height="30em"  a href= ' https://www.facebook.com/henrique.bezerra.7330' src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
- <img height="30em"  a href= ' ' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://www.facebook.com/henrique.bezerra.7330" img height="30em" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the 
+ badge&logo=facebook&logoColor=white">
+ <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- <img height="30em" a href= ' ' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <a href="" img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </div>

@@ -27,10 +27,16 @@
  
  ##
  <h1>Contacts</h1>
- <div>
- <a href="https://www.facebook.com/henrique.bezerra.7330" <img height="30em" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the 
-   badge&logo=facebook&logoColor=white"> </a>
- <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- <a href="" img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </div>
+
+  <div>
+    <a  href="https://www.facebook.com/henrique.bezerra.7330" target="_blank" >
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
+    <a  href="https://www.linkedin.com/in/henrique-bezerra-dos-santos-9802321a3/" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/bezerra__sk8/" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href="mailto:henriquebs1601@gmail.com" target="_blank"> Send email
+    <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>

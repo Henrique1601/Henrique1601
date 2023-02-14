@@ -36,7 +36,7 @@
     </a>
     <a href="https://www.instagram.com/bezerra__sk8/" target="_blank">
     <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <a href="mailto:henriquebs1601@gmail.com" target="_blank"> Send email
+    <a href="mailto:henriquebs1601@gmail.com" target="_blank">
     <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>

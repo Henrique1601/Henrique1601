@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working nothing 
-- 🌱 I’m currently learning front-end
-- 💬 Ask me about how the outher techs
-- 📫 How to reach me: ...
+- 🔭 I’m currently working not work yet
+- 🌱 I’m currently learning front-end, in focus in full Stack and Hacking 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: For real i love program and hacking 
+- 🤬 I'm trainer every day for i got my firt work so trainer trainer make to perfect 
 
 <div>
   <a href="https://github.com/Henrique1601">

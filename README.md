@@ -2,10 +2,10 @@
 
 I’m currently  not work yet 
 <br>
-I’m currently learning front-end, in focus in Frond-end e small things in back-end  and Hacking 
-Pronouns: He/him
-Fun fact: For real i love study program and hacking
-I'm training every day to i got my first work so training training make to perfect
+I’m currently learning front-end, in focus in Frond-end e small things in back-end  and Hacking <br>
+Pronouns: He/him <br>
+Fun fact: For real i love study program and hacking <br>
+I'm training every day to i got my first work so training training make to perfect <br>
 
 <div>
   <a href="https://github.com/Henrique1601">

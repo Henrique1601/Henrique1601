@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I’m currently  not work yet
+I’m currently  not work yet 
+<br>
 I’m currently learning front-end, in focus in Frond-end e small things in back-end  and Hacking 
 Pronouns: He/him
 Fun fact: For real i love study program and hacking

@@ -6,7 +6,7 @@ I’m currently learning front-end, in focus in Frond-end e small things in back
 Pronouns: He/him <br>
 Fun fact: For real i love study program and hacking <br>
 I'm training every day to i got my first work so training training make to perfect <br>
-
+OBS: All my projects in here isn't a real projects, at the moment i'm studying for my real project.
 <div>
   <a href="https://github.com/Henrique1601">
   <img height="	180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique1601&show_icons=true&theme=blue-green">

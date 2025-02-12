@@ -15,7 +15,7 @@
 
 ###
 My website 
-<a href="https://bezerraportifolio.netlify.app/"  target="_blank"</a>
+<a  href="https://bezerraportifolio.netlify.app/" target="_blank" ></a>
 ###
 
 ###

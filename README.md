@@ -14,8 +14,8 @@
 <h6 align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</h6>
 
 ###
-My website 
-<a  href="https://bezerraportifolio.netlify.app/" target="_blank" ></a>
+<a  href="https://bezerraportifolio.netlify.app/" target="_blank" >My website 
+</a>
 ###
 
 ###

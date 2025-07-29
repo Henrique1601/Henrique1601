@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">What's up, I'm  Henrique Bezerra dos Santos.<br>I'm a Full stack  developer.<br>I'm just currently studying programming for while. <br>My portfolio <a>https://bezerraportifolio.netlify.app/</h6></a>
+<h6 align="left">What's up, I'm  Henrique Bezerra dos Santos.<br>I'm a Full stack  developer.<br>I'm just currently studying programming for while. <br> <a href="https://bezerraportifolio.netlify.app" target="_blank">My portfolio</h6></a>
 
 ###
 

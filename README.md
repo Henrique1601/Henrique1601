@@ -1,8 +1,12 @@
-<h1 align="left">Henrique Bezerra | Bezerra</h1>
+<h1 align="left">Henrique Bezerra</h1>
 
 ###
 
-<h6 align="left">What's up, I'm  Henrique Bezerra dos Santos.<br>I'm a Full stack  developer.<br>I'm just currently studying programming for while. <br> <a href="https://bezerraportifolio.netlify.app" target="_blank">My portfolio</h6></a>
+<h6 align="left">
+Desenvolvedor Full Stack | Estudante de Programação
+<br><br>
+<a href="https://bezerraportifolio.netlify.app" target="_blank">Meu Portfólio</a>
+</h6>
 
 ###
 
@@ -10,7 +14,7 @@
   <a href="https://www.linkedin.com/in/henrique-bezerra-dos-santos-9802321a3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <a href="henriquebs1601@gmail.com" target="_blank">
+  <a href="mailto:henriquebs1601@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/bezerra_sk8.exe/" target="_blank">
@@ -22,14 +26,14 @@
   <a href="https://www.youtube.com/@BezerraPlayer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   </a>
-  <a href="zz_hbsgamer" target="_blank">
+  <a href="https://discord.com/users/zz_hbsgamer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
 ###
 
@@ -122,15 +126,30 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Henrique Bezerra dos Santos">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Henrique%20Bezerra%20dos%20Santos&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<h3 align="left">Experiência</h3>
 
 ###
 
-<img align="right" height="100" src=""  />
+<table align="left">
+  <tr>
+    <th>Período</th>
+    <th>Cargo</th>
+    <th>Empresa</th>
+    <th>Atividades</th>
+  </tr>
+  <tr>
+    <td>----  -  ----</td>
+    <td>Desenvolvedor Full Stack</td>
+    <td>Empresa</td>
+    <td>Desenvolvimento e manutenção de aplicações web</td>
+  </tr>
+  <tr>
+    <td>----  -  ----</td>
+    <td>Estagiário</td>
+    <td>Empresa</td>
+    <td>Suporte técnico e desenvolvimento de sistemas</td>
+  </tr>
+</table>
 
 ###
 

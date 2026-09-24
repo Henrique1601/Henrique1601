@@ -1,139 +1,112 @@
-<h1 align="left">Henrique Bezerra</h1>
+# Olá, eu sou o Henrique Bezerra 👋
 
-###
+<div align="left">
+  <h3>Full Stack Developer | React · Next.js · TypeScript · Node.js · IA</h3>
+  <p>
+    Desenvolvedor focado na construção de <b>produtos digitais modernos</b>, <b>soluções SaaS</b> e <b>aplicações com Inteligência Artificial</b>. Experiência no desenvolvimento de ponta a ponta: desde arquitetura frontend refinada e responsiva até APIs REST escaláveis, bancos de dados relacionais/NoSQL e integrações com agentes de IA.
+  </p>
+  <p>
+    🌐 <b>Portfólio:</b> <a href="https://bezerraportifolio.netlify.app" target="_blank">bezerraportifolio.netlify.app</a>
+  </p>
+</div>
 
-<h6 align="left">
-Desenvolvedor Full Stack | Estudante de Programação
-<br><br>
-<a href="https://bezerraportifolio.netlify.app" target="_blank">Meu Portfólio</a>
-</h6>
+---
 
-###
+### 📬 Conecte-se comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/henrique-bezerra-dos-santos-9802321a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:henriquebs1601@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/bezerra_sk8.exe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/henrique.bezerra.7330/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@BezerraPlayer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+  <a href="https://bezerraportifolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://discord.com/users/zz_hbsgamer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">🚀 Projetos em Destaque</h3>
-
-###
+### 🚀 Projetos em Destaque
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Henrique1601/NeXT-Stage"><b>NeXT-Stage</b></a></td>
-    <td>Portfólio de time fullstack com Next.js, Tailwind v4 e Framer Motion</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Henrique1601/Blog_vite"><b>Blog Vite</b></a></td>
-    <td>Blog completo com CRUD, JWT e upload de imagens - React + Vite</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Henrique1601/ListofContacts"><b>List of Contacts</b></a></td>
-    <td>App full-stack para gerir contactos - React, TypeScript e MongoDB</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Henrique1601/Estoque-App_Web"><b>Estoque App</b></a></td>
-    <td>Controlo de estoque multi-loja - React, Node.js e PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Henrique1601/Review-Games"><b>Review Games</b></a></td>
-    <td>App full-stack para reviews de jogos com Docker</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Henrique1601/Projeto-Financeiro"><b>Projeto Financeiro</b></a></td>
-    <td>Sistema de gestão financeira pessoal com CI/CD</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>Stack Principal</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/Henrique1601/DevQuest-">DevQuest</a></b></td>
+      <td>Plataforma interativa de estudos para programação com arena de código no navegador, trilhas guiadas e testes em tempo real.</td>
+      <td><code>Next.js 15</code> <code>Neon Postgres</code> <code>Drizzle ORM</code> <code>CodeMirror</code> <code>GSAP</code></td>
+      <td><a href="https://devquest-zeta.vercel.app" target="_blank">Demo</a> · <a href="https://github.com/Henrique1601/DevQuest-">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Henrique1601/Barbearia">BarberFlow</a></b></td>
+      <td>Micro-SaaS multi-tenant para agendamento online de barbearias com confirmação via WhatsApp e painel administrativo por PIN.</td>
+      <td><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://barbearia-beta-five.vercel.app" target="_blank">Demo</a> · <a href="https://github.com/Henrique1601/Barbearia">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Henrique1601/job-hunter-ai">Job Hunter AI</a></b></td>
+      <td>Central inteligente para rastreamento de vagas tech, score de compatibilidade de currículo com IA e gestão de pipeline.</td>
+      <td><code>Next.js</code> <code>Google Gemini API</code> <code>Prisma</code> <code>PostgreSQL</code></td>
+      <td><a href="https://job-hunter-ai-three.vercel.app" target="_blank">Demo</a> · <a href="https://github.com/Henrique1601/job-hunter-ai">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Henrique1601/analise-hidrometros">Análise Hidrômetros</a></b></td>
+      <td>Dashboard analítico de consumo de água e detecção automática de anomalias (vazamentos e erros) para condomínios (1444+ unidades).</td>
+      <td><code>React</code> <code>Vite</code> <code>Chart.js</code> <code>XLSX</code> <code>Tailwind</code></td>
+      <td><a href="https://analise-hidrometros-v2.vercel.app" target="_blank">Demo</a> · <a href="https://github.com/Henrique1601/analise-hidrometros">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Henrique1601/SkiilsToIAs">Skills to IAs</a></b></td>
+      <td>Repositório curado com mais de 120 skills modulares para agentes autônomos de IA (Antigravity, Claude Code, Cursor, Copilot).</td>
+      <td><code>AI Agents</code> <code>Prompt Engineering</code> <code>Automation</code></td>
+      <td><a href="https://github.com/Henrique1601/SkiilsToIAs">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Henrique1601/NeXT-Stage">NeXT-Stage</a></b></td>
+      <td>Portfólio de time full stack com alta fidelidade visual, transições fluidas e componentes modernos.</td>
+      <td><code>Next.js</code> <code>Tailwind v4</code> <code>Framer Motion</code></td>
+      <td><a href="https://next-stage-portfolio.vercel.app" target="_blank">Demo</a> · <a href="https://github.com/Henrique1601/NeXT-Stage">Repo</a></td>
+    </tr>
+  </tbody>
 </table>
 
-###
+---
 
-<h3 align="left">Linguagens e Ferramentas</h3>
+### 💼 Atuação e Trajetória
 
-###
+* **Desenvolvimento Full Stack & SaaS:** Concepção e lançamento de produtos completos (como o *BarberFlow* e o *DevQuest*), priorizando usabilidade, desempenho e isolamento seguro de dados.
+* **Projetos Comerciais & Freelance:** Criação de plataformas institucionais de alto impacto para clientes e marcas (ex: <a href="https://domportifolio-com-br.vercel.app" target="_blank">domportifolio.com.br</a> para ilustrador/designer e soluções para serviços veiculares).
+* **Soluções com Inteligência Artificial:** Integração de Large Language Models (Google Gemini API) em fluxos de negócios práticos e curadoria de ferramentas para agentes autônomos.
 
-<br clear="both">
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-</div>
-
-###
+### 🛠️ Linguagens e Ferramentas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique1601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique1601&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,vite,html,css" height="40" alt="frontend & backend" />
+</div>
+<br>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git,github,vercel,netlify" height="40" alt="databases & devops" />
 </div>
 
-###
+---
 
-<h3 align="left">Experiência</h3>
+### 📊 Estatísticas do GitHub
 
-###
-
-<table align="left">
-  <tr>
-    <th>Período</th>
-    <th>Cargo</th>
-    <th>Empresa</th>
-    <th>Atividades</th>
-  </tr>
-  <tr>
-    <td>----  -  ----</td>
-    <td>Desenvolvedor Full Stack</td>
-    <td>Empresa</td>
-    <td>Desenvolvimento e manutenção de aplicações web</td>
-  </tr>
-  <tr>
-    <td>----  -  ----</td>
-    <td>Estagiário</td>
-    <td>Empresa</td>
-    <td>Suporte técnico e desenvolvimento de sistemas</td>
-  </tr>
-</table>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Henrique1601.Henrique1601&left_color=black&right_color=darkgrey"  />
-
-###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique1601&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique1601&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais utilizadas" />
+</div>

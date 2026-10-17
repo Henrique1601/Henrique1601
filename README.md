@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=680&lines=Engenheiro+de+Software+%26+Full+Stack+Developer;Especialista+em+Next.js+15%2C+React+19%2C+TypeScript+%26+Node.js;Construindo+Micro-SaaS+Escal%C3%A1veis+%26+Multi-Tenant;Sistemas+com+IA+Generativa+(Gemini+API+%26+Agentes);Criador+do+SkiilsToIAs+(128%2B+skills+para+agentes)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=680&lines=Engenheiro+de+Software+%26+Full+Stack+Developer;Especialista+em+Next.js+15%2C+React+19%2C+TypeScript+%26+Node.js;Construindo+Micro-SaaS+Escal%C3%A1veis+%26+Multi-Tenant;Sistemas+com+IA+Generativa+(Gemini+API+%26+Agentes);Criador+do+SkiilsToIAs+(510%2B+skills+%26+agentes+aut%C3%B4nomos)" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -38,7 +38,7 @@
 Sou **Engenheiro de Software Full Stack** com foco em **arquiteturas web modernas, produtos digitais SaaS e engenharia de agentes de Inteligência Artificial**. Atuo no ciclo completo de desenvolvimento de software — da concepção do modelo de dados e infraestrutura serverless até interfaces refinadas com alta performance, microinterações e acessibilidade.
 
 - 🚀 **Criação de Produtos & SaaS:** Arquiteto soluções completas que resolvem problemas reais de mercado, como o **BarberFlow** (Micro-SaaS multi-tenant com agendamento integrado ao WhatsApp) e o **DevQuest** (plataforma interativa de desafios de código em tempo real).
-- 🧠 **Engenharia de IA & Agentes Autônomos:** Criador e mantenedor do ecossistema **SkiilsToIAs** (com mais de 128 skills especializadas para agentes autônomos de IA) e integrador de LLMs modernas (Google Gemini API, Claude e Model Context Protocol).
+- 🧠 **Engenharia de IA & Agentes Autônomos:** Criador e mantenedor do ecossistema **SkiilsToIAs** (com mais de **510 skills especializadas e 14 agentes autônomos de IA**) e integrador de LLMs modernas (Google Gemini API, Claude e Model Context Protocol / MCP).
 - 📊 **Processamento e Análise de Dados:** Desenvolvi dashboards analíticos e pipelines para detecção automática de anomalias e vazamentos em condomínios residenciais com mais de **1.444 unidades**.
 - 🛠️ **Cultura de Engenharia:** Foco em TypeScript estrito, componentização modular, testes automatizados (Vitest / Playwright) e deploy contínuo (CI/CD).
 
@@ -139,19 +139,55 @@ Sou **Engenheiro de Software Full Stack** com foco em **arquiteturas web moderna
     <tr>
       <td>
         <b><a href="https://github.com/Henrique1601/SkiilsToIAs">🧠 SkiilsToIAs</a></b><br>
-        <code>⭐ 128+ Skills</code> <code>🌐 Open Source</code>
+        <code>⭐ 510+ Skills</code> <code>🤖 14 Agentes</code>
       </td>
       <td>
-        Repositório curado de habilidades especializadas para agentes autônomos de IA (Antigravity, Claude Code, Cursor, Copilot). Padroniza instruções, workflows e comandos modulares.
+        Ecossistema completo com mais de 510 skills e 14 agentes autônomos para Antigravity, Claude Code, Cursor e Copilot, com integração profunda a servidores MCP e automações.
       </td>
       <td>
         <code>AI Agents</code><br>
         <code>MCP Protocol</code><br>
-        <code>Prompt Eng.</code><br>
+        <code>Full-Mesh DAG</code><br>
         <code>Workflows</code>
       </td>
       <td>
         <a href="https://github.com/Henrique1601/SkiilsToIAs"><b>📁 Repo</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Henrique1601/Prospector-crm">🎯 Prospector CRM</a></b><br>
+        <code>🟢 Em Produção</code> <code>💼 B2B Intelligence</code>
+      </td>
+      <td>
+        CRM estratégico de prospecção ativa B2B para mapeamento de mercado, qualificação de oportunidades digitais, métricas de conversão e gestão de follow-ups.
+      </td>
+      <td>
+        <code>Next.js</code><br>
+        <code>TypeScript</code><br>
+        <code>Tailwind CSS</code><br>
+        <code>Dashboard</code>
+      </td>
+      <td>
+        <a href="https://github.com/Henrique1601/Prospector-crm"><b>📁 Repo</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Henrique1601/devsync">⚡ devsync</a></b><br>
+        <code>🟢 Open Tooling</code> <code>🛠️ DevEx & Git</code>
+      </td>
+      <td>
+        Ferramenta de sincronização bidirecional Git multi-máquina (Trabalho vs Pessoal), resolução assistida de conflitos e segurança de segredos.
+      </td>
+      <td>
+        <code>JavaScript</code><br>
+        <code>Git Automation</code><br>
+        <code>CLI Tooling</code><br>
+        <code>Node.js</code>
+      </td>
+      <td>
+        <a href="https://github.com/Henrique1601/devsync"><b>📁 Repo</b></a>
       </td>
     </tr>
     <tr>
